@@ -5,6 +5,8 @@ This is an example showing how to use the R package (ropls) that was developed b
 
 The R package (ropls) includes a lot of functionalities, but here I am describing how to get the predictive model and the variable  importance in  projection  (VIP) scores of metabolites that are responsible for samples separation.
 
+## How to use it
+
 * To install the required package, start R and enter
 ```
 source("https://bioconductor.org/biocLite.R")
