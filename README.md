@@ -1,5 +1,5 @@
 # OPLS-DA
-Orthogonal Partial Least Squares-Discriminant Analysis (OPLS-DA)
+Orthogonal Partial Least Squares-Discriminant Analysis (OPLS-DA) in R
 
 This is an example showing how to use the R package (ropls) that was developed by [Etienne Thévenot](http://sites.unica.it/metabolomicaclinica/events/scientific-school-2016/lecturers/thevenot-etienne/).
 
