@@ -22,7 +22,7 @@ data = read.csv("table.csv", header=T, row.names = 1)
 class = data[, 1]
 dataMatrix = data[, 2:dim(data)[2]]
 ```
-* Building OPLS-DA model
+* Building the OPLS-DA model and generate basic plots
 ```
 data.oplsda = opls(dataMatrix, class, predI = 1, orthoI = NA)
 ```
